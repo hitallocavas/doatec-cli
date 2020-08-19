@@ -1,2 +1,1 @@
-# doatec-cli
-Projeto cliente do Doatec
+DoaTec - Sistema de Doação de Aparelhos Eletrônicos
