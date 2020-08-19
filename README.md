@@ -1,4 +1,4 @@
-# Aplicação Front-End do Doatec - Sistema de Doação de Aparelhos Eletrônicos 
+# Doatec - Sistema de Doação de Aparelhos Eletrônicos 
 O objetivo principal deste sistema é fazer match entre equipamentos de doadores e donatários de acordo com as necessidades e localização.
 
 # Tecnologias
